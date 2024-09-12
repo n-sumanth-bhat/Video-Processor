@@ -1,14 +1,5 @@
-.DS_Store
-*.bak
-*.tmp
-*~
-*.swp
-*.swo
-Thumbs.db
-desktop.ini
-.vscode/
-.idea/
-
+logs/
+media/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -134,7 +125,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+# .env
 .venv
 env/
 venv/
